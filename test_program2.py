@@ -11,3 +11,4 @@ def test_categorize_age_teenage():
 
 def test_categorize_age_adult():
     assert 'adult'== program_2.categorize_age(20)
+
